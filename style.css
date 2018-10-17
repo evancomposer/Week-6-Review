@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Fahkwang:300,400,500,500i,600|Poiret+One|Poppins:200,200i,300,300i,400,500|Quicksand:400,500,700');
+
+#site-standard{
+  font-family: 'Poppins';
+  background-color: #E3F0EF
+}
+
+#landing{
+  display: flex;
+  font-family: 'Poiret One';
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 10vw;
+  color: #723549;
+}
+
+#soundcloud{
+  font-size: 35px;
+  text-align: center;
+  padding: 10px 30px 30px 45px;
+}
+
+a:hover{
+  font-size: 45px;
+  color: #29DE34;
+}
+
+a {
+  color: #CD8E16;
+}
+
+img {
+  padding-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+
+}
+
+iframe {
+  display: flex;
+  margin: 0 auto;
+}
+
+h3 {
+  text-align: center;
+  font-size: 3.5vw;
+  padding-top: 30px;
+  color: #723549;
+}
+
+#generalInfo {
+  text-align: center;
+  font-size: 2vw;
+  color: #656562;
+}
+
+.workTitle {
+  text-align: left;
+  font-size: 25px;
+  padding-left: 20px;
+  color: #656562;
+}
+
+.workInfo {
+  text-align: left;
+  font-size: 18px;
+  padding-left: 90px;
+  padding-bottom: 1.8vw;
+  color: #656562;
+}
